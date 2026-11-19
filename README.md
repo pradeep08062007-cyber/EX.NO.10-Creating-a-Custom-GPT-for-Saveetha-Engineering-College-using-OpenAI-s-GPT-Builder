@@ -1,16 +1,16 @@
-# EX.NO.10-Creating-a-Custom-GPT-for-Saveetha-Engineering-College-using-OpenAI-s-GPT-Builder
-## AIM
+# EX.NO.10 CREATING A CUSTOM GPT FOR SAVEETHA ENGINEERING COLLEGE USING OPENAIs GPT BUILDER
+## AIM :
 To understand the concept of a Custom GPT and to design, build, configure, and publish a Custom GPT chatbot for Saveetha Engineering College (www.saveetha.ac.in) using OpenAI's GPT Builder, so that it can answer student and visitor questions about the college's courses, admissions, fees, facilities, and placements.
 ## WHAT IS A CUSTOM GPT?
 A Custom GPT is a personalised version of ChatGPT that can be built without writing any code. It is created by giving the GPT Builder three things: a name, a set of Instructions that describe how it should behave, and (optionally) reference files called Knowledge that it reads before answering. Once published, the Custom GPT behaves like a specialised chatbot — for example, a “Saveetha Engineering College Assistant” that always answers using the college's own information instead of general internet knowledge.
-### TOOLS REQUIRED
+### TOOLS REQUIRED :
 •	Web browser – Google Chrome or Microsoft Edge
 •	A ChatGPT account with a Plus, Team, Enterprise, or Edu subscription (the GPT Builder is not available on the free plan)
 •	OpenAI's GPT Builder – built into ChatGPT, opened from chatgpt.com/create
 •	Reference material about Saveetha Engineering College, collected from www.saveetha.ac.in (About, Courses, Admission, Placement, and Contact pages)
 •	MS Word / Google Docs – to organise the collected information into clean Knowledge files (PDF/DOCX) before uploading
 •	(Optional) Canva or the built-in DALL·E image generator – to design a profile picture/logo for the GPT
-## PROCEDURE
+## PROCEDURE  :
 ### Step 1: Collecting College Information (Knowledge Preparation)
 Before building the GPT, gather accurate information about Saveetha Engineering College from its official website www.saveetha.ac.in. Visit and note down content from pages such as About Us, Departments/Courses Offered, Admission Procedure, Fee Structure, Placements, Facilities, and Contact Details. Paste this content into a Word document and save it as a PDF. This file becomes the “Knowledge” for the GPT, so that it answers only with correct, college-specific information instead of guessing.
 ### Step 2: Signing in to ChatGPT
@@ -49,18 +49,16 @@ Click the “Create” (or “Save”) button in the top-right corner of the Bui
 •	Anyone with the link – to share with students and faculty of the department
 •	GPT Store (Public) – to make the GPT visible to all ChatGPT users
 Click “Publish”/“Update” to finish. Copy the generated link and share it with students through the college portal, WhatsApp group, or LMS.
-### SAMPLE INSTRUCTIONS (SYSTEM PROMPT) FOR THE GPT
+### SAMPLE INSTRUCTIONS (SYSTEM PROMPT) FOR THE GPT :
 <br><img width="587" height="151" alt="image" src="https://github.com/user-attachments/assets/cd378cba-9488-4cc9-9974-99a44f3695f8" /></br>
-## SAMPLE OUTPUT SCREEN
+## SAMPLE OUTPUT SCREEN :
 The screen below shows a sample conversation with the published “Saveetha Engineering College Assistant” Custom GPT, illustrating how it answers a student's admission query using the uploaded knowledge files.
 </br><img width="545" height="385" alt="image" src="https://github.com/user-attachments/assets/677bee25-a510-48db-824d-4dbb5795d610" /></br>
-## OUTPUT
+## OUTPUT :
 A working Custom GPT named “Saveetha Engineering College Assistant” is created and published. When a user asks questions like “What courses does Saveetha offer?” or “How can I apply for B.Tech admission?”, the GPT replies with accurate information drawn from the uploaded college knowledge files, in a friendly and professional tone.
-## RESULT
+## RESULT :
 Thus, a Custom GPT chatbot for Saveetha Engineering College was successfully designed, configured with knowledge files and instructions, tested, and published using OpenAI's GPT
 Builder.
 
-## CONCLUSION
-
-### In conclusion, building a Custom GPT shows how modern generative AI tools let anyone — even without programming knowledge — create a specialised, organisation-branded chatbot in a few simple steps. By combining clear instructions, focused knowledge files, and the right capabilities, Saveetha Engineering College can offer students and visitors instant, accurate answers to their questions, saving time for both the institution and its users.
-
+## CONCLUSION :
+In conclusion, building a Custom GPT shows how modern generative AI tools let anyone  even without programming knowledge — create a specialised, organisation-branded chatbot in a few simple steps. By combining clear instructions, focused knowledge files, and the right capabilities, Saveetha Engineering College can offer students and visitors instant, accurate answers to their questions, saving time for both the institution and its users.
